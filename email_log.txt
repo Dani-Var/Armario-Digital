@@ -1,0 +1,4 @@
+To: teste@teste.com
+Subject: Redefinição de Senha - Closet Fashion
+Body: Para redefinir sua senha, clique no link a seguir: <a href="http://localhost/reset-password?token=22e8a51825f6abbf0c4b7362dbe695484e97a70163f53133a39cd9bcd762918d97a0d09cf5cbc39eaf506ae4a1f3226f467d">http://localhost/reset-password?token=22e8a51825f6abbf0c4b7362dbe695484e97a70163f53133a39cd9bcd762918d97a0d09cf5cbc39eaf506ae4a1f3226f467d</a>
+
