@@ -32,3 +32,4 @@ $PHPMAILER_LANG['smtp_connect_failed']  = 'SMTP සම්බන්ධය අස�
 $PHPMAILER_LANG['smtp_detail']          = 'තොරතුරු: ';
 $PHPMAILER_LANG['smtp_error']           = 'SMTP දෝෂය: ';
 $PHPMAILER_LANG['variable_set']         = 'Variable එක සැකසීමට හෝ නැවත සැකසීමට නොහැක: ';
+?>

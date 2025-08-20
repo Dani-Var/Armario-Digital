@@ -88,5 +88,5 @@ class UserRepository implements UserRepositoryInterface
         return $stmt->execute([$hashedPassword, $userId]);
     }
 }
-
+?>
 

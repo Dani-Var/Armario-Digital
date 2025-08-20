@@ -40,4 +40,4 @@ class ViewRenderer
         return ob_get_clean();
     }
 }
-
+?>

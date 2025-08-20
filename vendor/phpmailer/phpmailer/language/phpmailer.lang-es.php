@@ -34,3 +34,4 @@ $PHPMAILER_LANG['smtp_connect_failed']  = 'SMTP Connect() falló.';
 $PHPMAILER_LANG['smtp_detail']          = 'Detalle: ';
 $PHPMAILER_LANG['smtp_error']           = 'Error del servidor SMTP: ';
 $PHPMAILER_LANG['variable_set']         = 'No se pudo configurar la variable: ';
+?>

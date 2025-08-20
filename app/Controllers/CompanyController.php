@@ -66,4 +66,4 @@ class CompanyController extends BaseController
         $this->render('pagina_empresa.html', ['empresa' => $empresa]);
     }
 }
-
+?>
